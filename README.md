@@ -1,5 +1,6 @@
-### Olá! Bem vindo ao meu repositório!
-
+<p align="center">
+<h2 align="center">Bem vindo ao meu repositório!</h2>
+</p>
 <div>
   <a href="https://github.com/LucasMSCaetano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMSCaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,8 +20,10 @@
 </div>  
   
   
-### Sobre mim
-##
+<p align="center">
+<h2 align="center">Apresentação</h2>
+</p>
+
 - 🎓 Sou Bacharel em sistemas de informações, e Técnologo em Telecomunicações
 - 💻 Tenho interesse em JavaScript, Typescript, Nodejs, React, Python, PHP, HTML e CSS
 - 🕹 Adoro jogar MOBAS, FPS e RPG
