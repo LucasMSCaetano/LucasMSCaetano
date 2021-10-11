@@ -26,7 +26,7 @@
 </p>
 
 - 🎓 Sou Bacharel em sistemas de informações, e Técnologo em Telecomunicações
-- 💻 Tenho interesse em JavaScript, Typescript, Nodejs, React, Python, PHP, HTML e CSS
+- 💻 Tenho interesse em PHP, Laravel, JavaScript, Typescript, Nodejs, React, Python, HTML e CSS
 - 🕹 Adoro jogar MOBAS, FPS e RPG
 - 👨‍💻 Pretendo me tornar fullstack em JavaScript
   
