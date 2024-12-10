@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">Bem vindo ao meu repositório!</h2>
+<h2 align="center">Welcome to my repository!</h2>
 </p>
 
 <div>
@@ -22,21 +22,12 @@
   
   
 <p align="center">
-<h2 align="center">Apresentação</h2>
+<h2 align="center">Presentation</h2>
 </p>
 
-- 🎓 Sou Bacharel em sistemas de informações, e Técnologo em Telecomunicações
-- 💻 Tenho interesse em PHP, Laravel, JavaScript, Typescript, Nodejs, React, Python, HTML e CSS
-- 🕹 Adoro jogar MOBAS, FPS e RPG
-- 👨‍💻 Atualmente atuo como fullstack em JavaScript e PHP
+- 🎓 I hold a Bachelor's degree in Information Systems, a Technologist degree in Telecommunications, and I am currently a special student in a Master's program in Data Science.
+- 💻 I am interested in JavaScript, TypeScript, Node.js, React, Python, Machine Learning, and NLP.
+- 🕹 I love playing MOBAs, FPS, and RPG games.
+- 👨‍💻 Currently, I work as a Tech Lead, focusing on Node.js, Next.js, Python, and AI.
   
 ##
-  
-  <div> 
-  
-  <a href = "mailto:lucas.matheu.caetano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-matheus-a95774186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
